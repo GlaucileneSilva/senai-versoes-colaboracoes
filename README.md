@@ -1,3 +1,5 @@
-# senai-versoes-colaboracoes
-Repositório de versões e colaborações
+﻿# senai-versoes-colaboracoes
+
 readme de exemplo
+
+lembrei do comando: git commit
